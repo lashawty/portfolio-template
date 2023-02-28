@@ -36,3 +36,7 @@ section:nth-child(odd)
 {
     justify-content: flex-end;
 }
+
+h1, h2 {
+    cursor: pointer;
+}
